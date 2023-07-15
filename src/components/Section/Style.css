@@ -1,0 +1,124 @@
+.car-box {
+    width: 584px;
+    position: relative;
+    margin-top: 20px;
+}
+
+.car-box:hover .hover-car-texts {
+    transform: scale(1);
+    transition: .4s;
+    -webkit-transform: scale(1);
+    -moz-transform: scale(1);
+    -ms-transform: scale(1);
+    -o-transform: scale(1);
+    -webkit-transition: .4s;
+    -moz-transition: .4s;
+    -ms-transition: .4s;
+    -o-transition: .4s;
+}
+
+.section-text {
+    padding-top: 180px;
+    padding-bottom: 40px;
+    text-align: center;
+    color: #FFF;
+    text-align: center;
+    font-family: Be Vietnam Pro;
+    font-size: 52px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 64px;
+    letter-spacing: 0.312px;
+}
+
+.hover-car-texts {
+    padding-top: 48px;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    transition: .4s;
+    transform: scale(0);
+    -webkit-transform: scale(0);
+    -moz-transform: scale(0);
+    -ms-transform: scale(0);
+    -o-transform: scale(0);
+    -webkit-transition: .4s;
+    -moz-transition: .4s;
+    -ms-transition: .4s;
+    -o-transition: .4s;
+}
+
+.hover-text-top {
+    text-align: start;
+    color: #FFF;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 52px;
+    letter-spacing: 0.24px;
+    margin-left: 48px;
+}
+
+.hover-text-bottom {
+    text-align: end;
+    margin-right: 48px;
+    padding-top: 340px;
+    color: #FFF;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 32px;
+    letter-spacing: 0.144px;
+}
+
+.container1 {
+    width: 1200px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+.section2 {
+    width: 1200px;
+    margin: auto;
+    display: flex;
+    gap: 24px;
+    /* justify-content: space-around; */
+    align-items: center;
+}
+
+.heddin1 {
+    color: #FFF;
+    font-family: Be Vietnam Pro;
+    font-size: 52px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 64px;
+    letter-spacing: 0.312px;
+    margin-top: 120px;
+    margin-bottom: 66px;
+    text-align: center;
+    /* text-align: center; */
+}
+
+.heddin2 {
+    color: #FFF;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 32px;
+    letter-spacing: 0.144px;
+    margin-top: 24px;
+}
+
+.text1 {
+    color: #ffffffc9;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0.096px;
+    margin-top: 16px;
+}   

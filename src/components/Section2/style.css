@@ -1,0 +1,115 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+.hedding3 {
+    color: #FFF;
+    text-align: center;
+    font-family: Be Vietnam Pro;
+    font-size: 52px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 64px;
+    /* 123.077% */
+    letter-spacing: 0.312px;
+    margin-top: 120px;
+}
+
+.containerS2 {
+    width: 1200px;
+    margin: auto;
+}
+
+.carBox3 {
+    width: 384px;
+    height: 472px;
+    flex-shrink: 0;
+    border: 1px solid #171717;
+    background: #131313;
+    margin-top: 24px;
+}
+
+.TextDivBox {
+    padding: 24px;
+}
+
+.NameCity {
+    color: #FFF;
+    font-family: Be Vietnam Pro;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 32px;
+    letter-spacing: 0.144px;
+}
+
+.CityText {
+    color: #FFF;
+    font-family: Be Vietnam Pro;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+    /* 175% */
+    letter-spacing: 0.066px;
+    margin-top: 10px;
+}
+
+.IconTextDiv {
+    display: flex;
+    gap: 12px;
+    align-items: center;
+    margin-top: 25px;
+}
+
+.Text1 {
+    color: #FFF;
+    font-family: Be Vietnam Pro;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 28px;
+    /* 175% */
+    letter-spacing: 0.066px;
+}
+
+.endText {
+    color: #EE8313;
+    font-family: Be Vietnam Pro;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+    /* 175% */
+    letter-spacing: 0.066px;
+    margin-top: 15px;
+}
+
+.CardBoxDiv {
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+    margin-top: 40px;
+    flex-wrap: wrap;
+}
+
+.LocationText {
+    color: #FFF;
+    text-align: center;
+    font-family: Be Vietnam Pro;
+    font-size: 52px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 64px;
+    /* 123.077% */
+    letter-spacing: 0.312px;
+    margin-top: 162px;
+}
+
+.LocationDiv{
+    text-align: center;
+    margin-top: 40px;
+}

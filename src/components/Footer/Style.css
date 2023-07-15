@@ -1,0 +1,113 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: 0;
+}
+
+.footer {
+    margin: auto;
+    background: #1F1905;
+    padding: 40px 20px;
+    margin-top: 120px;
+}
+
+.Logo_Text_Box {
+    display: flex;
+    align-items: center;
+    gap: 17px;
+}
+
+
+.text {
+    color: #FFF;
+    font-family: Be Vietnam Pro;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: 0.16px;
+}
+
+.Footer_List_Box {
+    display: flex;
+    /* border: 2px solid red; */
+    justify-content: space-between;
+    align-items: center;
+}
+
+.FooterLeftBox {
+    display: flex;
+    gap: 73px;
+}
+
+.hedding {
+    color: #FFF;
+    font-family: Be Vietnam Pro;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+}
+
+.hedding2 {
+    color: #FFF;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 20px;
+}
+
+.list {
+    color: #FFF;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+.list:nth-child(2) {
+    margin-top: 32px;
+}
+
+.list:nth-child(3) {
+    margin-top: 28px;
+}
+
+.list:nth-child(4) {
+    margin-top: 28px;
+}
+
+
+
+.ImgBox {
+    /* border: 2px solid red; */
+    background: #fff;
+    height: 50px;
+    position: relative;
+}
+
+.a {
+    margin-top: 14.8px;
+}
+
+.ImageFooter {
+    margin-top: -13px;
+}
+
+.end {
+    /* width: 1200px; */
+    margin: auto;
+    text-align: center;
+    background: #EE8313;
+    padding: 10px;
+}
+
+.HeddingEnd {
+    color: #FFF;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+}

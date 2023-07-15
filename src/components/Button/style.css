@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.orange {
+    background: #EE8313;
+    font-size: 16px;
+    padding: 12px 24px;
+    outline: 0;
+    border: 0;
+    color: #fff;
+    border: 2px solid #EE8313;
+}
+
+.orange_secondary {
+    color: #EE8313;
+    font-size: 16px;
+    padding: 12px 24px;
+    outline: 0;
+    border: 0;
+    background: transparent;
+    border: 2px solid #EE8313;
+}
